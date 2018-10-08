@@ -1,0 +1,10 @@
+# .gitignore
+
+# Hidden Vagrant-directory
+.vagrant
+
+# Backup files (e.g. Vim, Gedit, etc.)
+*~
+
+# Vagrant base boxes
+*.box
