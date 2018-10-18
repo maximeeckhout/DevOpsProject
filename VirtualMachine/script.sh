@@ -27,6 +27,8 @@ sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/dock
 #sudo yum-config-manager --enable docker-ce-test
 #sudo yum-config-manager --disable docker-ce-edge
 
+#Docker Compose gebruiken
+
 sudo yum install docker-ce -y -y
 sudo systemctl start docker
 sudo docker run hello-world
