@@ -33,7 +33,10 @@ sudo yum install docker-ce -y -y
 sudo systemctl start docker
 sudo docker run hello-world
 
-
-
-
-
+#MySQL installatoin
+sudo yum -y update
+sudo wget http://repo.mysql.com/mysql-community-release-el7-5.noarch.rpm
+sudo rpm -ivh mysql-community-release-el7-5.noarch.rpm
+sudo yum -y update
+sudo yum install -y mysql-server
+sudo systemctl start mysqld
