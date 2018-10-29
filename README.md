@@ -21,7 +21,7 @@ Deze beurs wordt bezocht door studenten uit gerelateerdeopleidingen die een aant
 * een monitoringsysteem voor de applicatie, zodat de werking van de applicatie in productiekan opgevolgd worden via een dashboard.
 
 ## Azure
-<projecten3studserver09.westeurope.cloudapp.azure.com>
+[Website VM](http://projecten3studserver09.westeurope.cloudapp.azure.com/)
 
 ## Leden
 
