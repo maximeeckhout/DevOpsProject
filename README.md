@@ -19,7 +19,9 @@ Deze beurs wordt bezocht door studenten uit gerelateerdeopleidingen die een aant
 * geautomatiseerde tests in de verschillende fasen van de ontwikkeling: linting, static analyzers,unit tests, functional tests, load tests, enz.
 * de infrastructuur voor de applicatie in de verschillende fasen van de ontwikkeling, meerbepaald development-, qa/test- en productie-omgeving. Deze omgevingen zijn waar mogelijkidentiek geconfigureerd,  wat de doorstroom van code naar productie vlotter moet latenverlopen.  De productie-omgeving is krachtig genoeg om de belasting door de gebruikerszonder problemen aan te kunnen.
 * een monitoringsysteem voor de applicatie, zodat de werking van de applicatie in productiekan opgevolgd worden via een dashboard.
-* 
+
+## Azure
+<projecten3studserver09.westeurope.cloudapp.azure.com>
 
 ## Leden
 
