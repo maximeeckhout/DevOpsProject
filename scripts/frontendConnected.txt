@@ -1,0 +1,1 @@
+root      6688  6686 48 12:15 pts/0    00:00:43 ng serve --proxy-config proxy.conf.json --host 0.0.0.0 --disable-host-check
