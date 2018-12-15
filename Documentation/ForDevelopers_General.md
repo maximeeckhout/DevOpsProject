@@ -1,6 +1,6 @@
 # Documentation DevOps
 
-### Access Azure Server
+## Access Azure Server
 
 Go to http://portal.azure.com and login using your school email address.
 
@@ -10,17 +10,17 @@ Wait a second and click on 'start'.
 
 
 
-### Access Website
+## Access Website
 
 After launch of the server, or after a new build on github. Wait 10 minutes and the website should be visible on: http://projecten3studserver09.westeurope.cloudapp.azure.com:4200/
 
 
 
-### Access Webserver
+## Access Webserver
 
-After launch of the server, or after a new build on github. Wait 2 minutes and you could check if the webserver runs with: 
+After launch of the server, or after a new build on github. Wait 2 minutes and you could check if the webserver runs with:
 
-http://projecten3studserver09.westeurope.cloudapp.azure.com:3000/api/ 
+http://projecten3studserver09.westeurope.cloudapp.azure.com:3000/api/
 
 OR if the website is running with:
 
@@ -28,9 +28,9 @@ OR if the website is running with:
 
 
 
-### Access Database
+## Access Database
 
-You can access the database via ssh on the domain name: 
+You can access the database via ssh on the domain name:
 
 projecten3studserver09.westeurope.cloudapp.azure.com
 
@@ -44,7 +44,7 @@ password: DBStudent418
 
 
 
-### Access server
+## Access server
 
 Should you need access on the server, using an ssh connection you can do the following:
 
