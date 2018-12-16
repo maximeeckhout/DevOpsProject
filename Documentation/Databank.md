@@ -6,7 +6,7 @@ Code voor de installatie van de database (nadat MySQL geïnstalleerd is)
 
 ```
 mysql -u root -p
-mysql> CREATE DATABASE tutorial_database;
+mysql> CREATE DATABASE IdeaalDuaal;
 mysql> SHOW DATABASES;
 mysql> CREATE USER 'DBStudent4' IDENTIFIED BY 'DBStudent418';
 mysql> GRANT ALL PRIVILEGES ON * . * TO 'DBStudent4';
