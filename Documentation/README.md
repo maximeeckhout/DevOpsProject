@@ -9,8 +9,8 @@
 
 * [Android Set Up](Android.md)
 * [Databank Set Up](Databank.md)
-* [Website Set Up]()
-* [Backend Set Up]()
+* [Website Set Up](Website.md)
+* [Backend Set Up](Backend.md)
 * [Lokale VM Set Up](SetUpLocalVM.md)
 
 ## Scripts
