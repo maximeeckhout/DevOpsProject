@@ -1,4 +1,4 @@
-# DevOps
+# DevOps - Groep 4
 
 ## Algemene info
 
@@ -20,8 +20,12 @@ Deze beurs wordt bezocht door studenten uit gerelateerdeopleidingen die een aant
 * de infrastructuur voor de applicatie in de verschillende fasen van de ontwikkeling, meerbepaald development-, qa/test- en productie-omgeving. Deze omgevingen zijn waar mogelijkidentiek geconfigureerd,  wat de doorstroom van code naar productie vlotter moet latenverlopen.  De productie-omgeving is krachtig genoeg om de belasting door de gebruikerszonder problemen aan te kunnen.
 * een monitoringsysteem voor de applicatie, zodat de werking van de applicatie in productiekan opgevolgd worden via een dashboard.
 
-## Azure
-[Website VM](http://projecten3studserver09.westeurope.cloudapp.azure.com/)
+## Links
+* [Azure](portal.azure.com)
+* [Jenins](http://projecten3studserver09.westeurope.cloudapp.azure.com/)
+* [Website](http://projecten3studserver09.westeurope.cloudapp.azure.com:4200/login)
+* [Google Play Store App](https://play.google.com/store/apps/details?id=com.hogent.ideaalduaal&hl=nl&ah=dIUOrkIHUm7X7snlBH-_ObhIGyU) (Enkel voor mensen die in het intern testprogramma van deze app zitten)
+* [Github - Ideaal Duaal](https://github.com/orgs/HoGent-Projecten3/teams/groep9-ideaalduaal)
 
 ## Leden
 
