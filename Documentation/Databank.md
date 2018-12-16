@@ -23,6 +23,9 @@ Code voor backup te maken:
 export MYSQL_PWD=StudentStudent18
 mysqldump -u root IdeaalDuaal > database_backup.sql
 ```
+
+Installeer eerst Go en de github release aan de hand van deze [link](https://github.com/aktau/github-release)
+
 Code om backup te releasen naar Github
 ```
 filename=database_backup_$(date +'%Y-%m-%d').sql
