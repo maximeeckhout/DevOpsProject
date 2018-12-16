@@ -3,7 +3,7 @@
 ## Voor Developers
 
 * [General (toegang naar alle platformen)](ForDevelopers_General.md)
-* [Jenkins (guide om logs te bekijken)](ForDevelopers_General.md)
+* [Jenkins (guide om logs te bekijken)](ForDevelopers_Jenkins.md)
 
 ## Opbouw project
 
