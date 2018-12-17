@@ -50,3 +50,5 @@ sudo systemctl status mysql.service
 sudo mysql_secure_installation
 
 ```
+
+#bron: https://gist.github.com/misterbrownlee/3708738
